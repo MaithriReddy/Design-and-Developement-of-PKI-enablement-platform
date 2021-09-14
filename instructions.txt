@@ -1,0 +1,20 @@
+References
+----------
+1. Creating pfx certificate
+    https://www.scottbrady91.com/OpenSSL/Creating-RSA-Keys-using-OpenSSL
+
+2. Code is a modified version of this
+    https://www.codeproject.com/Articles/1110389/Sign-and-Verify-a-form-with-Javascript
+
+
+Installation
+------------
+
+1. Install node modules
+    npm install @peculiar/webcrypto
+    npm install node-forge
+    npm install express
+
+2. Run 
+    node server.js
+
